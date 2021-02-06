@@ -1,4 +1,4 @@
-# glorydev
+# GloryDev Team Portfolio Website
 
 ## Project setup
 ```
