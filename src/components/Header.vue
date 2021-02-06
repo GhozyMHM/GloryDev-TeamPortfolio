@@ -3,11 +3,11 @@
         <navbar />
 
         <div class="header-content">
-            <img src="../assets/img/PBg.png" id="pbg" alt="">
-            <img src="../assets/img/PLeft.png" id="pl" alt="">
-            <img src="../assets/img/PRight.png" id="pr" alt="">
-            <img src="../assets/img/PKeyboard.png" id="pk" alt="">
-            <img src="../assets/img/PCrown.png" id="cr" alt="">
+            <img src="../assets/img/PBg.png" id="pbg" alt="" />
+            <img src="../assets/img/PLeft.png" id="pl" alt="" />
+            <img src="../assets/img/PRight.png" id="pr" alt="" />
+            <img src="../assets/img/PKeyboard.png" id="pk" alt="" />
+            <img src="../assets/img/PCrown.png" id="cr" alt="" />
             <h1 id="text">GLORYDEV</h1>
         </div>
     </header>
@@ -21,27 +21,45 @@
         components: {
             navbar,
         },
+        mounted() {
+            let pbg = document.getElementById("pbg");
+            let pl = document.getElementById("pl");
+            let pr = document.getElementById("pr");
+            let pk = document.getElementById("pk");
+            let text = document.getElementById("text");
+            let cr = document.getElementById("cr");
+
+            window.addEventListener("scroll", function () {
+                var value = window.scrollY;
+
+                pbg.style.top = value * 0.5 + "px";
+                pl.style.left = -value * 0.5 + "px";
+                pr.style.left = value * 0.5 + "px";
+                pk.style.top = value * 0.15 + "px";
+                text.style.top = value * 1 + "px";
+                cr.style.top = value * 1 + "px";
+            });
+        },
+        beforeDestroy() {
+            let pbg = document.getElementById("pbg");
+            let pl = document.getElementById("pl");
+            let pr = document.getElementById("pr");
+            let pk = document.getElementById("pk");
+            let text = document.getElementById("text");
+            let cr = document.getElementById("cr");
+
+            window.removeEventListener("scroll", function () {
+                var value = window.scrollY;
+
+                pbg.style.top = value * 0.5 + "px";
+                pl.style.left = -value * 0.5 + "px";
+                pr.style.left = value * 0.5 + "px";
+                pk.style.top = value * 0.15 + "px";
+                text.style.top = value * 1 + "px";
+                cr.style.top = value * 1 + "px";
+            });
+        },
     };
-
-    let pbg = document.getElementById("pbg");
-    let pl = document.getElementById("pl");
-    let pr = document.getElementById("pr");
-    let pk = document.getElementById("pk");
-    let text = document.getElementById("text");
-    let cr = document.getElementById("cr");
-
-
-    window.addEventListener('scroll', function () {
-        var value = window.scrollY;
-
-        pbg.style.top = value * 0.5 + 'px';
-        pl.style.left = -value * 0.5 + 'px';
-        pr.style.left = value * 0.5 + 'px';
-        pk.style.top = value * 0.15 + 'px';
-        text.style.top = value * 1 + 'px';
-        cr.style.top = value * 1 + 'px';
-
-    })
 </script>
 
 <style>
@@ -90,7 +108,7 @@
     #text {
         position: relative;
         z-index: 1;
-        font-family: 'Montserrat', sans-serif;
+        font-family: "Montserrat", sans-serif;
         color: black;
         font-size: 7em;
         text-align: center;
