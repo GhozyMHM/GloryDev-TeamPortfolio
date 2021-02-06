@@ -94,6 +94,7 @@
         color: black;
         font-size: 7em;
         text-align: center;
+        font-weight: 600;
     }
 
     #pk {
