@@ -4,14 +4,21 @@ import router from './router'
 import {
   library
 } from '@fortawesome/fontawesome-svg-core'
-import {
-  faUserSecret
-} from '@fortawesome/free-solid-svg-icons'
+
 import {
   FontAwesomeIcon
 } from '@fortawesome/vue-fontawesome'
 
-library.add(faUserSecret)
+import {
+  dom
+} from '@fortawesome/fontawesome-svg-core'
+
+import {
+  fas
+} from '@fortawesome/free-solid-svg-icons'
+
+library.add(fas)
+dom.watch()
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
