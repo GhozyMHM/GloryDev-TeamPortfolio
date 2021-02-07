@@ -90,7 +90,7 @@
         z-index: 10000;
     }
 
-    header img:not(#logo) {
+    header img {
         position: absolute;
         top: 0;
         left: 0;
@@ -98,11 +98,6 @@
         height: 100%;
         object-fit: cover;
         pointer-events: none;
-    }
-
-    header img#logo {
-        width: 150px;
-        position: relative;
     }
 
     #text {
