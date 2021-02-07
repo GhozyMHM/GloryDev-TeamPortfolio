@@ -1,0 +1,122 @@
+.p-container-1,
+.p-container-2,
+.p-container-3 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.p-container-1 {
+    background-color: white;
+    height: 100vh;
+}
+
+.p-container-1 h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+    color: #1687A7;
+}
+
+.bott-tri {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 70px;
+    border-bottom: 170px solid #1687A7;
+    border-right: 170px solid transparent;
+}
+
+.top-tri {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70px;
+    border-top: 170px solid #1687A7;
+    border-left: 170px solid transparent;
+}
+
+.p-container-2 {
+    background-color: #1687A7;
+    min-height: 100%;
+}
+
+.p-container-2 h1 {
+    font-size: 40px;
+    margin-bottom: 80px;
+    color: white;
+}
+
+.service {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service .do {
+    margin: 0 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+.service .outerring {
+    width: 160px;
+    height: 160px;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service .innerring {
+    width: 130px;
+    height: 130px;
+    background: #276678;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faicon {
+    color: white;
+}
+
+.service h5 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 20px;
+}
+
+.p-container-3 {
+    background-color: red;
+    min-height: 100%;
+}
+
+.p-content {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pc2 {
+    flex-flow: column;
+}
+
+@media(max-width:568px) {
+
+    .p-container-1,
+    .p-container-2,
+    .p-container-3 {
+        background-attachment: scroll;
+    }
+}
