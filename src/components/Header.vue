@@ -62,7 +62,7 @@
     };
 </script>
 
-<style scoped>
+<style>
     header {
         position: relative;
         width: 100%;
