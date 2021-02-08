@@ -94,21 +94,23 @@
     margin-top: 20px;
 }
 
-.p-container-3 {
-    background-color: red;
-    min-height: 100%;
-}
-
 .p-content {
     position: relative;
     width: 100%;
     height: 100vh;
+}
+
+.pc1 {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.pc2 {
+.pc2,
+.pc3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     flex-flow: column;
 }
 
