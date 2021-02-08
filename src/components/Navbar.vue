@@ -1,5 +1,5 @@
 <template>
-    <nav id="navbar" class="navbar navbar-expand-lg fixed-top">
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-light fixed-top">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -83,5 +83,21 @@
     nav ul li a:hover {
         font-weight: 800;
         color: #276678;
+    }
+
+    nav button.navbar-toggler:focus,
+    nav button.navbar-toggler:active {
+        outline: none !important;
+        border: none !important;
+    }
+
+    @media (max-width: 991px) {
+        span.line {
+            display: none;
+        }
+
+        nav ul li {
+            margin-bottom: 6px;
+        }
     }
 </style>
