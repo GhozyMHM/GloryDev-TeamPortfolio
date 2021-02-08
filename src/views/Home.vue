@@ -2,11 +2,9 @@
   <div class="home">
     <HeaderHome />
     <div class="p-container-1">
-      <div class="p-content">
+      <div class="p-content pc1">
         <div data-aos="fade-up">
-          <h1 id="tagline">Great
-            Application <br> To Be The
-            Great Company</h1>
+          <h1 id="tagline">Great Application <br />To Be The Great Company </h1>
         </div>
         <div class="bott-tri"></div>
         <div class="top-tri"></div>
@@ -42,31 +40,40 @@
               </div>
             </div>
           </div>
-
         </div>
       </div>
+      <HomeTeam />
     </div>
   </div>
 </template>
-
 <script>
-  import AOS from 'aos';
   import HeaderHome from "@/components/Header.vue";
+  import HomeTeam from "@/components/HomeTeam.vue";
+  import AOS from "aos";
 
   export default {
+
     name: "Home",
     components: {
       HeaderHome,
-    },
+      HomeTeam,
+    }
+
+    ,
     mounted() {
       AOS.init({
-        duration: 900,
-        mirror: true
-      });
-    }
-  };
-</script>
+          duration: 700,
+          mirror: true,
+        }
 
+      );
+    }
+
+    ,
+  }
+
+  ;
+</script>
 <style scoped>
   @import "../assets/home-style.css";
 </style>
