@@ -1,0 +1,128 @@
+.p-container-3 {
+    background-color: white;
+    height: auto;
+}
+
+.p-container-3 h1 {
+    font-size: 90px;
+    margin-bottom: 30px;
+    color: #1687A7;
+}
+
+.theteam p {
+    color: #1687A7;
+    font-size: 80px;
+    text-align: center;
+}
+
+.p-container-4 {
+    background-color: #1686A6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.sp-cont {
+    width: 100%;
+    height: 85%;
+    margin-top: 50px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    /* background-color: yellow; */
+}
+
+.row-sp-cont {
+    width: 100% !important;
+    height: 100% !important;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+img.selfpict {
+    width: 330px;
+}
+
+.p-container-4 h1 {
+    color: white;
+    font-size: 50px;
+    text-align: left;
+    max-width: 520px;
+}
+
+.spc1 {
+    /* background-color: red; */
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 !important;
+}
+
+.spc1b {
+    justify-content: flex-end !important;
+}
+
+.spc2 {
+    /* background-color: rebeccapurple; */
+    width: fit-content;
+}
+
+.bio h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.bio p {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+img.tech {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.contact-icon {
+    display: flex;
+    justify-content: flex-end;
+}
+
+p.contact {
+    /* display: inline-block; */
+    margin: 0 5px;
+    font-size: 25px;
+}
+
+a.contact {
+    display: block;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #1686A6;
+    font-weight: 600;
+    background-color: white;
+    padding: 7px 15px;
+    border-radius: 7px;
+    width: fit-content;
+    margin-top: 20px;
+}
+
+.row-bio {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: antiquewhite; */
+}
+
+.bio-tech {
+    /* background-color: gold; */
+}
+
+.bio-contact {
+    /* background-color: sienna; */
+    display: flex;
+    flex-flow: column;
+    align-items: flex-end;
+}
