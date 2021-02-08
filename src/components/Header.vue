@@ -85,7 +85,7 @@
         position: absolute;
         bottom: 0;
         width: 100%;
-        height: 40px;
+        height: 50px;
         background: linear-gradient(to top, white, transparent);
         z-index: 10000;
     }
