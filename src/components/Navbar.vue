@@ -11,14 +11,26 @@
                     <li class="nav-item">
                         <router-link to="/" class="menu">Home</router-link><span class="line">|</span>
                     </li>
-                    <li class="nav-item">
-                        <router-link to="/ghozy" class="menu">Ghozy</router-link><span class="line">|</span>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle menu" href="#" id="navbarDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Teams
+                        </a>
+                        <ul id="dropdown-menu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li class="nav-item">
+                                <router-link to="/ghozy" class="menu">Ghozy</router-link>
+                            </li>
+                            <li class="nav-item">
+                                <router-link to="/ghozy" class="menu">Rafi</router-link>
+                            </li>
+                            <li class="nav-item">
+                                <router-link to="/ghozy" class="menu">Shiddiq</router-link>
+                            </li>
+                        </ul>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/ghozy" class="menu">Rafi</router-link><span class="line">|</span>
-                    </li>
-                    <li class="nav-item">
-                        <router-link to="/ghozy" class="menu">Shiddiq</router-link>
+                        <span class="line">|</span>
+                        <router-link to="/ghozy" class="menu">Contact</router-link>
                     </li>
                 </ul>
             </div>
@@ -32,6 +44,7 @@
         mounted() {
             var navbar = document.getElementById('navbar');
             var ul = document.getElementById('ul');
+            var dropmenu = document.getElementById('dropdown-menu');
             let menu = document.getElementsByClassName('menu');
             let line = document.getElementsByClassName('line');
             // let active = document.getElementsByClassName('router-link-exact-active');
@@ -39,6 +52,7 @@
             window.onscroll = function () {
                 if (window.pageYOffset > 700) {
                     navbar.style.background = "#276678";
+                    dropmenu.style.background = "#276678";
                     for (let x = 0, leng = menu.length; x < leng; x++) {
                         menu[x].style.color = "#D9E6EA"
                     }
@@ -48,6 +62,7 @@
                     ul.style.margin = "5px 0";
                 } else {
                     navbar.style.background = "transparent";
+                    dropmenu.style.background = "rgba(255, 255, 255, 0.377)";
                     for (let x = 0, leng = menu.length; x < leng; x++) {
                         menu[x].style.color = "#1f5766"
                     }
@@ -70,17 +85,28 @@
         margin: 20px 0;
     }
 
-    nav ul li a {
-        font-family: 'Montserrat', sans-serif;
+    .nav-link {
+        display: inline;
+        padding: 0 !important;
+    }
+
+    nav a,
+    .nav-link {
+        font-family: 'Montserrat', sans-serif !important;
         color: #1f5766;
         font-weight: 500;
         text-decoration: none;
-        margin: 0 10px;
+        margin: 0 15px !important;
         transition: ease-in-out;
     }
 
-    nav ul li a.router-link-exact-active,
-    nav ul li a:hover {
+    #dropdown-menu {
+        border: none;
+        background-color: rgba(255, 255, 255, 0.377);
+    }
+
+    nav a.router-link-exact-active,
+    nav a:hover {
         font-weight: 800;
         color: #276678;
     }
