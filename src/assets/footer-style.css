@@ -1,0 +1,33 @@
+footer {
+    background-color: white;
+    width: 100%;
+    height: auto;
+    padding: 10px 0;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0 30px;
+}
+
+.main img {
+    width: 200px;
+}
+
+.main h1 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.main-contact p i {
+    margin-right: 100px;
+}
+
+p.copyright {
+    text-align: center;
+}
