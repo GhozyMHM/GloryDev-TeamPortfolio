@@ -138,34 +138,4 @@
 <style scoped>
     @import "../assets/home-style.css";
     @import "../assets/home-team.css";
-
-
-
-    /* .shape {
-        width: 100%;
-        height: 80%;
-        margin-top: 85px;
-        background: #D9E6EA;
-        -moz-transform: scale(1.4) rotate(-10deg);
-        -webkit-transform: scale(1.4) rotate(-10deg);
-        -o-transform: scale(1.4) rotate(-10deg);
-        -ms-transform: scale(1.4) rotate(-10deg);
-        transform: scale(1.4) rotate(-10deg);
-    } */
-
-    /* .teamH {
-        width: 100%;
-        height: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-
-    .teamH img {
-        width: 250px;
-    } */
 </style>
