@@ -14,7 +14,6 @@
 }
 
 .p-container-1 h1 {
-    font-family: 'Montserrat', sans-serif;
     font-size: 60px;
     text-align: center;
     font-weight: 600;
@@ -41,21 +40,22 @@
 
 .p-container-2 {
     background-color: #1687A7;
-    height: 100%;
+    height: auto;
 }
 
 .p-container-2 h1 {
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 40px;
     margin-bottom: 80px;
     color: white;
+    font-weight: 700;
 }
 
 .service {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .service .do {
@@ -91,7 +91,6 @@
 }
 
 .service h5 {
-    font-family: 'Montserrat', sans-serif;
     color: white;
     margin-top: 20px;
 }
@@ -108,12 +107,10 @@
     align-items: center;
 }
 
-.pc2,
-.pc3 {
+.pc2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-flow: column;
 }
 
 @media(max-width:568px) {
@@ -122,5 +119,71 @@
     .p-container-2,
     .p-container-3 {
         background-attachment: scroll;
+    }
+}
+
+@media (max-width: 991px) {
+    .p-container-2 h1 {
+        font-size: 50px;
+        margin-bottom: 150px;
+    }
+
+    .service .uiux {
+        margin-top: 80px;
+    }
+}
+
+@media (max-width: 700px) {
+    .p-container-1 h1 {
+        font-size: 35px;
+    }
+
+    .bott-tri {
+        width: 70px;
+        border-bottom: 120px solid #1687A7;
+        border-right: 120px solid transparent;
+    }
+
+    .top-tri {
+        width: 70px;
+        border-top: 120px solid #1687A7;
+        border-left: 120px solid transparent;
+    }
+
+    .p-container-2 {
+        padding: 40px 0;
+    }
+
+    .p-content.pc2 {
+        height: auto;
+    }
+
+    .p-container-2 h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .service .outerring {
+        width: 130px;
+        height: 130px;
+    }
+
+    .service .innerring {
+        width: 100px;
+        height: 100px;
+    }
+
+    p.faicon {
+        color: white;
+        font-size: 10px !important;
+    }
+
+    .service h5 {
+        color: white;
+        margin-top: 20px;
+    }
+
+    .service .do {
+        margin: 50px 80px;
     }
 }

@@ -5,6 +5,7 @@ footer {
     height: auto;
     padding: 10px 0;
     display: flex;
+    flex-wrap: wrap;
     flex-flow: column;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
@@ -12,6 +13,7 @@ footer {
 
 .main {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     margin: 20px 0 30px;
@@ -34,4 +36,43 @@ footer {
 p.copyright {
     text-align: center;
     font-weight: 500;
+}
+
+@media (max-width: 991px) {
+    .main {
+        justify-content: center;
+        align-items: center;
+        margin: 20px 0 30px;
+        flex-flow: column;
+    }
+
+    .main .main-team,
+    .main .main-contact {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+}
+
+@media (max-width: 700px) {
+    footer {
+        align-items: center;
+    }
+
+    .main img {
+        width: 150px;
+        height: 100px;
+    }
+
+    .main h1 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    p.copyright {
+        max-width: 250px;
+    }
 }

@@ -3,10 +3,18 @@
     height: auto;
 }
 
+.pc3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
 .p-container-3 h1 {
     font-size: 90px;
     margin-bottom: 30px;
     color: #1687A7;
+    font-weight: 600;
 }
 
 .theteam p {
@@ -38,7 +46,6 @@
     width: 100% !important;
     height: 100% !important;
     display: flex;
-    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
 }
@@ -49,7 +56,6 @@ img.selfpict {
 
 .p-container-4 h1 {
     color: white;
-    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 45px;
     text-align: left;
@@ -73,12 +79,10 @@ img.selfpict {
 }
 
 .bio h3 {
-    font-family: 'Montserrat', sans-serif;
     color: white;
 }
 
 .bio p {
-    font-family: 'Montserrat', sans-serif;
     color: white;
 }
 
@@ -93,7 +97,6 @@ img.tech {
 }
 
 p.contact {
-    /* display: inline-block; */
     margin: 0 5px;
     font-size: 25px;
 }
@@ -101,7 +104,6 @@ p.contact {
 a.contact {
     display: block;
     text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
     color: #1686A6;
     font-weight: 600;
     background-color: white;
@@ -118,13 +120,65 @@ a.contact {
     /* background-color: antiquewhite; */
 }
 
-.bio-tech {
-    /* background-color: gold; */
-}
-
 .bio-contact {
     /* background-color: sienna; */
     display: flex;
     flex-flow: column;
     align-items: flex-end;
+}
+
+@media (max-width: 991px) {
+    .theteam p {
+        font-size: 100px;
+    }
+
+    .p-container-4 .spc1 {
+        order: 2;
+        justify-content: center;
+    }
+
+    .p-container-4 .spc2 {
+        order: 1;
+        align-items: center;
+    }
+
+    .p-container-4 h1 {
+        text-align: center;
+    }
+
+    .spc1b {
+        justify-content: center !important;
+    }
+}
+
+@media (max-width: 700px) {
+    .p-container-3 h1 {
+        font-size: 60px;
+        max-width: 300px;
+        text-align: center;
+    }
+
+    .p-container-4 h1 {
+        font-size: 25px;
+    }
+
+    .bio-tech h3 {
+        font-size: 18px;
+    }
+
+    .bio-tech p {
+        font-size: 13px;
+    }
+
+    img.tech {
+        width: 30px;
+    }
+
+    .spc1 {
+        margin-top: 30px;
+    }
+
+    img.selfpict {
+        width: 300px;
+    }
 }

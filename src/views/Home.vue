@@ -35,7 +35,7 @@
               </div>
               <h5>Mobile Development</h5>
             </div>
-            <div class="do">
+            <div class="do uiux">
               <div class="outerring">
                 <div class="innerring">
                   <p class="faicon">

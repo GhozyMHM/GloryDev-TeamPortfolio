@@ -4,7 +4,7 @@
             <div class="p-content pc3">
                 <div data-aos="fade-down" class="theteam">
                     <h1>The Team</h1>
-                    <p><i class="fas fa-caret-down"></i></p>
+                    <p><i class="fas fa-caret-down animate__animated animate__fadeOutDown animate__infinite"></i></p>
                 </div>
                 <div class="top-tri"></div>
             </div>
@@ -12,15 +12,15 @@
         <div class="p-container-4">
             <div class="sp-cont">
                 <div data-aos="fade-left" class="row row-sp-cont">
-                    <div class="col-md-5 spc1">
+                    <div class="col-lg-5 col-sm-12 col-12 spc1">
                         <img class="selfpict" src="../assets/img/ghozy.gif" alt="" />
                     </div>
-                    <div class="col-md-6 spc2">
+                    <div class="col-lg-6 col-sm-12 col-12 spc2">
                         <h1>Ghozy Muhammad Hanzhalah Muchjidi</h1>
                         <div class="row-bio">
                             <div class="bio bio-tech">
                                 <h3>Web Developer</h3>
-                                <p>Common Used Tech :</p>
+                                <p>Major Skills :</p>
                                 <img class="tech" src="../assets/img/Vue Js.png" alt="" />
                                 <img class="tech" src="../assets/img/JS.png" alt="" />
                                 <img class="tech" src="../assets/img/Git.png" alt="" />
@@ -50,12 +50,12 @@
         <div class="p-container-4">
             <div class="sp-cont">
                 <div data-aos="fade-right" class="row row-sp-cont">
-                    <div class="col-md-6 spc2">
+                    <div class="col-md-6 col-sm-12 col-12 spc2">
                         <h1>Muhamad Rafi Rahmat Alghifari</h1>
                         <div class="row-bio">
                             <div class="bio bio-tech">
                                 <h3>Mobile Developer</h3>
-                                <p>Common Used Tech :</p>
+                                <p>Major Skills :</p>
                                 <img class="tech" src="../assets/img/Vue Js.png" alt="" />
                                 <img class="tech" src="../assets/img/JS.png" alt="" />
                                 <img class="tech" src="../assets/img/Git.png" alt="" />
@@ -79,7 +79,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-5 spc1 spc1b">
+                    <div class="col-md-5 col-sm-12 col-12 spc1 spc1b">
                         <img class="selfpict" src="../assets/img/ghozy.gif" alt="" />
                     </div>
                 </div>
@@ -89,15 +89,15 @@
         <div class="p-container-4">
             <div class="sp-cont">
                 <div data-aos="fade-left" class="row row-sp-cont">
-                    <div class="col-md-5 spc1">
+                    <div class="col-md-5 col-sm-12 col-12 spc1">
                         <img class="selfpict" src="../assets/img/ghozy.gif" alt="" />
                     </div>
-                    <div class="col-md-6 spc2">
+                    <div class="col-md-6 col-sm-12 col-12 spc2">
                         <h1>Muhammad Shiddiq Fathullah</h1>
                         <div class="row-bio">
                             <div class="bio bio-tech">
                                 <h3>UI/UX Designer</h3>
-                                <p>Common Used Tech :</p>
+                                <p>Major Skills :</p>
                                 <img class="tech" src="../assets/img/Vue Js.png" alt="" />
                                 <img class="tech" src="../assets/img/JS.png" alt="" />
                                 <img class="tech" src="../assets/img/Git.png" alt="" />
