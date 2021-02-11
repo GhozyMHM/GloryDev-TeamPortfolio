@@ -209,3 +209,11 @@
     -webkit-box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
     box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
 }
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: gray;
+    border-radius: 20px;
+    width: 30px;
+    padding: 20px;
+}
