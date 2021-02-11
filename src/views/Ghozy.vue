@@ -242,8 +242,4 @@
 
 <style scoped>
     @import url("../assets/team-style.css");
-
-    /* nav ul li.dropdown a.team-menu {
-        color: red !important;
-    } */
 </style>
