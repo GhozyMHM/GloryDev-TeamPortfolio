@@ -17,12 +17,12 @@ const routes = [{
   {
     path: '/rafi',
     name: 'rafi',
-    component: () => import( /* webpackChunkName: "about" */ '../views/Ghozy.vue')
+    component: () => import( /* webpackChunkName: "about" */ '../views/Rafi.vue')
   },
   {
     path: '/shiddiq',
     name: 'shiddiq',
-    component: () => import( /* webpackChunkName: "about" */ '../views/Ghozy.vue')
+    component: () => import( /* webpackChunkName: "about" */ '../views/Shiddiq.vue')
   },
   {
     path: '/contact',
