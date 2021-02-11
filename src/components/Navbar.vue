@@ -21,10 +21,10 @@
                                 <router-link to="/ghozy" class="menu">Ghozy</router-link>
                             </li>
                             <li class="nav-item">
-                                <router-link to="/ghozy" class="menu">Rafi</router-link>
+                                <router-link to="/rafi" class="menu">Rafi</router-link>
                             </li>
                             <li class="nav-item">
-                                <router-link to="/ghozy" class="menu">Shiddiq</router-link>
+                                <router-link to="/shiddiq" class="menu">Shiddiq</router-link>
                             </li>
                         </ul>
                     </li>
