@@ -101,7 +101,7 @@ p.contact {
     font-size: 25px;
 }
 
-a.contact {
+a.see-works {
     display: block;
     text-decoration: none;
     color: #1686A6;
@@ -111,6 +111,16 @@ a.contact {
     border-radius: 7px;
     width: fit-content;
     margin-top: 20px;
+}
+
+a.see-works:hover {
+    -moz-transform: scale(1.1) translate(10px, 0px);
+    -webkit-transform: scale(1.1) translate(10px, 0px);
+    -o-transform: scale(1.1) translate(10px, 0px);
+    -ms-transform: scale(1.1) translate(10px, 0px);
+    transform: scale(1.1) translate(10px, 0px);
+    -webkit-box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
+    box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
 }
 
 .row-bio {

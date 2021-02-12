@@ -40,7 +40,7 @@
                                         <p class="contact"><i class="fab fa-whatsapp"></i></p>
                                     </a>
                                 </div>
-                                <router-link to="/ghozy" class="contact">See Works</router-link>
+                                <router-link to="/ghozy" class="see-works">See Works</router-link>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                                         <p class="contact"><i class="fab fa-whatsapp"></i></p>
                                     </a>
                                 </div>
-                                <router-link to="/rafi" class="contact">See Works</router-link>
+                                <router-link to="/rafi" class="see-works">See Works</router-link>
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                                         <p class="contact"><i class="fab fa-whatsapp"></i></p>
                                     </a>
                                 </div>
-                                <router-link to="/shiddiq" class="contact">See Works</router-link>
+                                <router-link to="/shiddiq" class="see-works">See Works</router-link>
                             </div>
                         </div>
                     </div>
