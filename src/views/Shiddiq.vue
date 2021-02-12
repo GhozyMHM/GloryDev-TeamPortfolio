@@ -9,10 +9,8 @@
             <div class="col-lg-6 col-sm-12 member-review">
                 <h1>Muhamamd <span>Shiddiq</span> Fathullah</h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-                    exercitationem minima consectetur, deleniti dolor corrupti nisi
-                    facilis autem reiciendis! Cum culpa, sit delectus quisquam
-                    exercitationem nostrum neque aliquid deleniti totam!
+                    Designing prototypes & researching user habits is one of my hobbies. With this activity, I'm one
+                    step closer to developing many of my BIG ideas!
                 </p>
             </div>
         </div>
@@ -33,13 +31,13 @@
                     <div id="portCarousel1" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/Holydamn 2.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Akia.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Holydamn 3.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Akia 2.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Holydamn 4.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Akia 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#portCarousel1" role="button" data-bs-slide="prev">
@@ -53,16 +51,14 @@
                     </div>
                 </div>
                 <div class="desc-port">
-                    <h1>HOLYDAMN</h1>
+                    <h1>AKIA</h1>
                     <p>
-                        Classy and responsive landing page based on Progressive Web Apps
-                        (PWA) for clothing brand, HOLYDAMN
+                        AKIA is an application prototype that connects health workers and pregnant women
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <img src="../assets/img/figma.png" alt="" />
+                        <img src="../assets/img/Dribbble.png" alt="" />
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -72,31 +68,29 @@
         <div class="port2">
             <div class="port-cont">
                 <div class="desc-port">
-                    <h1>CLOIS88</h1>
+                    <h1>W-FRAME</h1>
                     <p>
-                        University Class of Information System Majors Responsive Website
-                        Page
+                        W-Frame is an open source wireframing learning web with various types of learning
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <img src="../assets/img/HTML.png" alt="" />
+                        <img src="../assets/img/CSS.png" alt="" />
+                        <img src="../assets/img/bootstrap.png" alt="" />
                     </div>
                     <a href="">Visit Project</a>
                 </div>
                 <div class="main-port">
-                    <!-- <img src="../assets/img/Holydamn.png" alt=""> -->
                     <div id="portCarousel2" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/Clois.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Stunning W.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Clois 2.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Stunning W 2.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Clois 3.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Stunning W 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#portCarousel2" role="button" data-bs-slide="prev">
@@ -115,17 +109,16 @@
         <div class="port1">
             <div class="port-cont">
                 <div class="main-port">
-                    <!-- <img src="../assets/img/Holydamn.png" alt=""> -->
                     <div id="portCarousel3" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/Heyboom.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Jamkos S.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Heyboom 2.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Jamkos S 2.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Heyboom 3.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Jamkos S 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#portCarousel3" role="button" data-bs-slide="prev">
@@ -139,58 +132,17 @@
                     </div>
                 </div>
                 <div class="desc-port">
-                    <h1>HEYBOOM</h1>
+                    <h1>JAMKOS</h1>
                     <p>
-                        Responsive and Beautiful landing page for photobook brand, HEYBOOM
+                        JamKos is a prototype application that can arrange the schedule of lecturers and students in a
+                        class
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <img src="../assets/img/HTML.png" alt="" />
+                        <img src="../assets/img/CSS.png" alt="" />
                     </div>
                     <a href="">Visit Project</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="port2">
-            <div class="port-cont">
-                <div class="desc-port">
-                    <h1>COLOR PERSONALITY</h1>
-                    <p>
-                        Know your personality by typing your favorite color in this website
-                    </p>
-                    <p class="p-tu">Major Tech Used :</p>
-                    <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
-                    </div>
-                    <a href="">Visit Project</a>
-                </div>
-                <div class="main-port">
-                    <div id="portCarousel4" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="../assets/img/ColPer.png" class="d-block w-100" alt="..." />
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/img/ColPer 2.png" class="d-block w-100" alt="..." />
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/img/ColPer 3.png" class="d-block w-100" alt="..." />
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#portCarousel4" role="button" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#portCarousel4" role="button" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </a>
-                    </div>
                 </div>
             </div>
         </div>

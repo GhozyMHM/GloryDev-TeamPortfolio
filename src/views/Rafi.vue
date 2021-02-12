@@ -33,13 +33,13 @@
                     <div id="portCarousel1" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/Holydamn 2.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Jamkos R.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Holydamn 3.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Jamkos R 2.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Holydamn 4.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Jamkos R 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#portCarousel1" role="button" data-bs-slide="prev">
@@ -53,16 +53,15 @@
                     </div>
                 </div>
                 <div class="desc-port">
-                    <h1>HOLYDAMN</h1>
+                    <h1>JAMKOS</h1>
                     <p>
-                        Classy and responsive landing page based on Progressive Web Apps
-                        (PWA) for clothing brand, HOLYDAMN
+                        Jamkos application is an application that notifies students of class schedules. Currently Jamkos
+                        is still available in prototype form
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <img src="../assets/img/figma.png" alt="" />
+                        <img src="../assets/img/Dribbble.png" alt="" />
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -72,16 +71,15 @@
         <div class="port2">
             <div class="port-cont">
                 <div class="desc-port">
-                    <h1>CLOIS88</h1>
+                    <h1>AYO SEHAT</h1>
                     <p>
-                        University Class of Information System Majors Responsive Website
-                        Page
+                        Ayo Sehat is an AI application to scan the nutritional content of food. Currently Ayo Sehat is
+                        still available in prototype form
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <img src="../assets/img/figma.png" alt="" />
+                        <img src="../assets/img/Dribbble.png" alt="" />
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -90,13 +88,13 @@
                     <div id="portCarousel2" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/Clois.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Ayo Sehat.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Clois 2.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Ayo Sehat 2.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Clois 3.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Ayo Sehat 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#portCarousel2" role="button" data-bs-slide="prev">
@@ -119,13 +117,13 @@
                     <div id="portCarousel3" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../assets/img/Heyboom.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Papi Cuci.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Heyboom 2.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Papi Cuci 2.png" class="d-block w-100" alt="..." />
                             </div>
                             <div class="carousel-item">
-                                <img src="../assets/img/Heyboom 3.png" class="d-block w-100" alt="..." />
+                                <img src="../assets/img/Papi Cuci 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#portCarousel3" role="button" data-bs-slide="prev">
@@ -139,58 +137,16 @@
                     </div>
                 </div>
                 <div class="desc-port">
-                    <h1>HEYBOOM</h1>
+                    <h1>PAPI CUCI</h1>
                     <p>
-                        Responsive and Beautiful landing page for photobook brand, HEYBOOM
+                        PapiCuci is a website application for ordering a car wash. Currently this application is still a
+                        prototype
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <img src="../assets/img/figma.png" alt="" />
                     </div>
                     <a href="">Visit Project</a>
-                </div>
-            </div>
-        </div>
-
-        <div class="port2">
-            <div class="port-cont">
-                <div class="desc-port">
-                    <h1>COLOR PERSONALITY</h1>
-                    <p>
-                        Know your personality by typing your favorite color in this website
-                    </p>
-                    <p class="p-tu">Major Tech Used :</p>
-                    <div class="tech-used">
-                        <img src="../assets/img/Vue Js.png" alt="" />
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
-                    </div>
-                    <a href="">Visit Project</a>
-                </div>
-                <div class="main-port">
-                    <div id="portCarousel4" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img src="../assets/img/ColPer.png" class="d-block w-100" alt="..." />
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/img/ColPer 2.png" class="d-block w-100" alt="..." />
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../assets/img/ColPer 3.png" class="d-block w-100" alt="..." />
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#portCarousel4" role="button" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#portCarousel4" role="button" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </a>
-                    </div>
                 </div>
             </div>
         </div>
