@@ -128,11 +128,15 @@
 .desc-port {
     width: 30%;
     height: 100%;
-    padding: 10px 20px;
+    padding: 10px 40px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-flow: column;
+}
+
+.port2 .desc-port {
+    padding: 10px 40px;
 }
 
 .port1 .desc-port {
