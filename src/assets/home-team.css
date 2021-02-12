@@ -127,7 +127,7 @@ a.contact {
     align-items: flex-end;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1030px) {
     .theteam p {
         font-size: 100px;
     }

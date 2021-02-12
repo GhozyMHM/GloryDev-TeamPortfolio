@@ -80,7 +80,7 @@
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-12 col-12 spc1 spc1b">
-                        <img class="selfpict" src="../assets/img/ghozy.gif" alt="" />
+                        <img class="selfpict" src="../assets/img/Rafi.gif" alt="" />
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
             <div class="sp-cont">
                 <div data-aos="fade-left" class="row row-sp-cont">
                     <div class="col-md-5 col-sm-12 col-12 spc1">
-                        <img class="selfpict" src="../assets/img/ghozy.gif" alt="" />
+                        <img class="selfpict" src="../assets/img/Shiddiq.gif" alt="" />
                     </div>
                     <div class="col-md-6 col-sm-12 col-12 spc2">
                         <h1>Muhammad Shiddiq Fathullah</h1>

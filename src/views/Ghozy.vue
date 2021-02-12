@@ -3,10 +3,10 @@
         <navbar />
 
         <div class="member-banner">
-            <div class="col-md-5 member-pict">
+            <div class="col-lg-5 col-sm-12 member-pict">
                 <img class="selfpict" src="../assets/img/ghozy white.gif" alt="Ghozy (Member)" />
             </div>
-            <div class="col-md-6 member-review">
+            <div class="col-lg-6 col-sm-12 member-review">
                 <h1><span>Ghozy</span> Muhammad Hanzhalah Muchjidi</h1>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
@@ -73,7 +73,10 @@
             <div class="port-cont">
                 <div class="desc-port">
                     <h1>CLOIS88</h1>
-                    <p>University Class of Information System Majors Responsive Website Page</p>
+                    <p>
+                        University Class of Information System Majors Responsive Website
+                        Page
+                    </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
                         <img src="../assets/img/Vue Js.png" alt="" />
@@ -155,7 +158,9 @@
             <div class="port-cont">
                 <div class="desc-port">
                     <h1>COLOR PERSONALITY</h1>
-                    <p>Know your personality by typing your favorite color in this website</p>
+                    <p>
+                        Know your personality by typing your favorite color in this website
+                    </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
                         <img src="../assets/img/Vue Js.png" alt="" />
@@ -203,7 +208,7 @@
         name: "Ghozy",
         components: {
             navbar,
-            FooterContent
+            FooterContent,
         },
         mounted() {
             window.onscroll = function () {

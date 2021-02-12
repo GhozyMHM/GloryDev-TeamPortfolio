@@ -6,8 +6,10 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
     height: 100vh;
     padding-top: 40px;
+    background-color: #FEFEFE;
 }
 
 .member-banner .member-pict {
@@ -32,7 +34,7 @@
 
 .work-title {
     height: 100vh;
-    background-color: white;
+    background-color: #FEFEFE;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,6 +62,7 @@
     height: 100vh;
     padding-top: 50px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -80,6 +83,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     /* padding: 20px; */
 }
 
@@ -182,7 +186,6 @@
 .port2 .desc-port {
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
-    border-left: 2px solid white;
     background-color: #1687A7;
 }
 
@@ -198,6 +201,7 @@
     text-decoration: none;
     font-weight: 600;
     transition: all 0.2s ease-in-out;
+    justify-self: flex-end;
 }
 
 .port2 .desc-port a:hover {
@@ -216,4 +220,135 @@
     border-radius: 20px;
     width: 30px;
     padding: 20px;
+}
+
+@media (max-width: 1030px) {
+    .member-review {
+        max-width: 650px;
+    }
+
+    .member-review h1,
+    .member-review p {
+        text-align: center;
+    }
+
+    .work-title h1 {
+        text-align: center;
+    }
+
+    .port1,
+    .port2 {
+        padding-top: 0;
+    }
+
+    .port-cont {
+        flex-flow: column;
+    }
+
+    .main-port {
+        width: 90%;
+        order: 2;
+    }
+
+    .desc-port {
+        width: 90%;
+        padding: 0 20px;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .desc-port h1 {
+        font-size: 50px;
+        margin-bottom: 35px;
+    }
+
+    .desc-port p {
+        font-size: 20px;
+    }
+
+    .desc-port .p-tu {
+        margin-bottom: 10px;
+    }
+
+    .desc-port .tech-used {
+        margin-bottom: 35px;
+    }
+
+    .desc-port img {
+        width: 40px;
+    }
+
+    .desc-port a {
+        margin-left: auto;
+    }
+}
+
+@media (max-width: 991px) {
+    .member-banner {
+        justify-content: center;
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 700px) {
+    .member-banner {
+        padding-top: 10px;
+    }
+
+    .member-banner img {
+        width: 220px;
+    }
+
+    .member-banner h1 {
+        font-size: 30px;
+    }
+
+    .member-banner p {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .member-review {
+        margin-top: -80px;
+    }
+
+    .work-title h1 {
+        font-size: 50px;
+    }
+
+    .desc-port {
+        width: 70%;
+        padding: 0;
+        margin-top: 20px;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .desc-port h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .desc-port p {
+        font-size: 15px;
+    }
+
+    .desc-port .p-tu {
+        margin-bottom: 5px;
+    }
+
+    .desc-port .tech-used {
+        margin-bottom: 25px;
+    }
+
+    .desc-port img {
+        width: 30px;
+    }
+
+    .port-cont .desc-port a {
+        margin-right: auto;
+        margin-left: 0;
+        padding: 7px 17px;
+        font-size: 15px;
+    }
 }
