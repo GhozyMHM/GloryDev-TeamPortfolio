@@ -135,10 +135,6 @@
     flex-flow: column;
 }
 
-.port2 .desc-port {
-    padding: 10px 40px;
-}
-
 .port1 .desc-port {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
