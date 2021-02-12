@@ -32,6 +32,10 @@
     font-weight: 700;
 }
 
+.member-review p {
+    font-size: 20px;
+}
+
 .work-title {
     height: 100vh;
     background-color: #FEFEFE;
@@ -157,6 +161,7 @@
 
 .desc-port img {
     width: 30px;
+    margin: 0 3px;
 }
 
 .port1 .desc-port a {
@@ -312,6 +317,10 @@
         margin-top: -80px;
     }
 
+    .member-review p {
+        font-size: 18px;
+    }
+
     .work-title h1 {
         font-size: 50px;
     }
@@ -349,6 +358,21 @@
         margin-right: auto;
         margin-left: 0;
         padding: 7px 17px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 380px) {
+
+    .member-banner img {
+        width: 200px;
+    }
+
+    .member-banner h1 {
+        font-size: 27px;
+    }
+
+    .member-banner p {
         font-size: 15px;
     }
 }
