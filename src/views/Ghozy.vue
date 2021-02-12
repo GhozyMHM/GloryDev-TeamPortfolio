@@ -9,10 +9,8 @@
             <div class="col-lg-6 col-sm-12 member-review">
                 <h1><span>Ghozy</span> Muhammad Hanzhalah Muchjidi</h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-                    exercitationem minima consectetur, deleniti dolor corrupti nisi
-                    facilis autem reiciendis! Cum culpa, sit delectus quisquam
-                    exercitationem nostrum neque aliquid deleniti totam!
+                    A man who loves business and technology. Very interested and enthusiastic of Web Development,
+                    especially Front-End Development.
                 </p>
             </div>
         </div>
