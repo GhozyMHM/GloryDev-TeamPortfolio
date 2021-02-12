@@ -21,9 +21,9 @@
                             <div class="bio bio-tech">
                                 <h3>Web Developer</h3>
                                 <p>Major Skills :</p>
-                                <img class="tech" src="../assets/img/Vue Js.png" alt="" />
                                 <img class="tech" src="../assets/img/JS.png" alt="" />
-                                <img class="tech" src="../assets/img/Git.png" alt="" />
+                                <img class="tech" src="../assets/img/Vue Js.png" alt="" />
+                                <img class="tech" src="../assets/img/Nodejs.png" alt="" />
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
@@ -47,6 +47,7 @@
                 </div>
             </div>
         </div>
+
         <div class="p-container-4">
             <div class="sp-cont">
                 <div data-aos="fade-right" class="row row-sp-cont">
@@ -54,11 +55,11 @@
                         <h1>Muhamad Rafi Rahmat Alghifari</h1>
                         <div class="row-bio">
                             <div class="bio bio-tech">
-                                <h3>Mobile Developer</h3>
+                                <h3>UI Designer</h3>
                                 <p>Major Skills :</p>
-                                <img class="tech" src="../assets/img/Vue Js.png" alt="" />
-                                <img class="tech" src="../assets/img/JS.png" alt="" />
-                                <img class="tech" src="../assets/img/Git.png" alt="" />
+                                <img class="tech" src="../assets/img/figma.png" alt="" />
+                                <img class="tech" src="../assets/img/Invision.png" alt="" />
+                                <img class="tech" src="../assets/img/Photoshop.png" alt="" />
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
@@ -96,11 +97,11 @@
                         <h1>Muhammad Shiddiq Fathullah</h1>
                         <div class="row-bio">
                             <div class="bio bio-tech">
-                                <h3>UI/UX Designer</h3>
+                                <h3>UX Researcher</h3>
                                 <p>Major Skills :</p>
-                                <img class="tech" src="../assets/img/Vue Js.png" alt="" />
-                                <img class="tech" src="../assets/img/JS.png" alt="" />
-                                <img class="tech" src="../assets/img/Git.png" alt="" />
+                                <img class="tech" src="../assets/img/figma.png" alt="" />
+                                <img class="tech" src="../assets/img/HTML.png" alt="" />
+                                <img class="tech" src="../assets/img/Tailwindcss.png" alt="" />
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
