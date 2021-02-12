@@ -3,10 +3,10 @@
         <navbar />
 
         <div class="member-banner">
-            <div class="col-md-5 member-pict">
-                <img class="selfpict" src="../assets/img/ghozy white.gif" alt="Ghozy (Member)" />
+            <div class="col-lg-5 col-sm-12 member-pict">
+                <img class="selfpict" src="../assets/img/Rafi white.gif" alt="Rafi (Member)" />
             </div>
-            <div class="col-md-6 member-review">
+            <div class="col-lg-6 col-sm-12 member-review">
                 <h1>Muhamad <span>Rafi</span> Rahmat Alghifari</h1>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
