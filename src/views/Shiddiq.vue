@@ -7,7 +7,7 @@
                 <img class="selfpict" src="../assets/img/Shiddiq white.gif" alt="Shiddiq (Member)" />
             </div>
             <div class="col-lg-6 col-sm-12 member-review">
-                <h1>Muhamamd <span>Shiddiq</span> Fathullah</h1>
+                <h1>Muhammad <span>Shiddiq</span> Fathullah</h1>
                 <p>
                     Designing prototypes & researching user habits is one of my hobbies. With this activity, I'm one
                     step closer to developing many of my BIG ideas!
@@ -30,13 +30,13 @@
                     <!-- <img src="../assets/img/Holydamn.png" alt=""> -->
                     <div id="portCarousel1" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <img src="../assets/img/Akia.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Akia 2.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Akia 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
@@ -83,13 +83,13 @@
                 <div class="main-port">
                     <div id="portCarousel2" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <img src="../assets/img/Stunning W.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Stunning W 2.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Stunning W 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
@@ -111,13 +111,13 @@
                 <div class="main-port">
                     <div id="portCarousel3" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <img src="../assets/img/Jamkos S.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Jamkos S 2.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Jamkos S 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>

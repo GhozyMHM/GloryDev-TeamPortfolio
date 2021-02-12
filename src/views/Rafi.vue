@@ -29,16 +29,15 @@
         <div class="port1">
             <div class="port-cont">
                 <div class="main-port">
-                    <!-- <img src="../assets/img/Holydamn.png" alt=""> -->
                     <div id="portCarousel1" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <img src="../assets/img/Jamkos R.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Jamkos R 2.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Jamkos R 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
@@ -87,13 +86,13 @@
                     <!-- <img src="../assets/img/Holydamn.png" alt=""> -->
                     <div id="portCarousel2" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <img src="../assets/img/Ayo Sehat.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Ayo Sehat 2.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Ayo Sehat 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
@@ -116,13 +115,13 @@
                     <!-- <img src="../assets/img/Holydamn.png" alt=""> -->
                     <div id="portCarousel3" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+                            <div class="carousel-item active" data-bs-interval="3000">
                                 <img src="../assets/img/Papi Cuci.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Papi Cuci 2.png" class="d-block w-100" alt="..." />
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item" data-bs-interval="3000">
                                 <img src="../assets/img/Papi Cuci 3.png" class="d-block w-100" alt="..." />
                             </div>
                         </div>
