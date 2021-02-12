@@ -29,21 +29,21 @@
               <div class="outerring">
                 <div class="innerring">
                   <p class="faicon">
-                    <i class="fas fa-mobile-alt fa-4x"></i>
+                    <i class="far fa-object-group fa-4x"></i>
                   </p>
                 </div>
               </div>
-              <h5>Mobile Development</h5>
+              <h5>UI Design</h5>
             </div>
             <div class="do uiux">
               <div class="outerring">
                 <div class="innerring">
                   <p class="faicon">
-                    <i class="far fa-object-group fa-4x"></i>
+                    <i class="fas fa-search fa-4x"></i>
                   </p>
                 </div>
               </div>
-              <h5>UI/UX Design</h5>
+              <h5>UX Research</h5>
             </div>
           </div>
         </div>
