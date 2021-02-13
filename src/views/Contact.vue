@@ -68,7 +68,7 @@
                 let line = document.getElementsByClassName("line");
                 // let active = document.getElementsByClassName('router-link-exact-active');
 
-                if (window.pageYOffset > 100) {
+                if (window.pageYOffset > 20) {
                     navbar.style.background = "#276678";
                     dropmenu.style.background = "#276678";
                     for (let x = 0, leng = menu.length; x < leng; x++) {
