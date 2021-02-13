@@ -123,6 +123,11 @@ a.see-works:hover {
     box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
 }
 
+.contact-icon a:hover {
+    -webkit-box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
+    box-shadow: -4px 6px 8px 2px rgba(0, 0, 0, 0.51);
+}
+
 .row-bio {
     margin-top: 50px;
     display: flex;
