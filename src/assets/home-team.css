@@ -197,3 +197,10 @@ a.see-works:hover {
         width: 300px;
     }
 }
+
+@media (max-width: 700px) {
+
+    img.selfpict {
+        width: 250px;
+    }
+}
