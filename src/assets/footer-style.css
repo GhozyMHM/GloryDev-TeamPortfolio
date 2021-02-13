@@ -70,6 +70,10 @@ p.copyright {
         height: 100vh;
     }
 
+    .main {
+        flex-flow: column;
+    }
+
     .main img {
         width: 220px;
         height: 170px;
