@@ -39,16 +39,16 @@
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
-                                    <a href="">
+                                    <a href="https://github.com/GhozyMHM" target="_blank">
                                         <p class="contact"><i class="fab fa-github"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://www.linkedin.com/in/ghozymhm/" target="_blank">
                                         <p class="contact"><i class="fab fa-linkedin"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://www.instagram.com/ghozymhm/" target="_blank">
                                         <p class="contact"><i class="fab fa-instagram"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://wa.link/nrncf7" target="_blank">
                                         <p class="contact"><i class="fab fa-whatsapp"></i></p>
                                     </a>
                                 </div>
@@ -87,16 +87,16 @@
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
-                                    <a href="">
+                                    <a href="https://github.com/rafialg11" target="_blank">
                                         <p class="contact"><i class="fab fa-github"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://www.linkedin.com/in/raffi-alghifari-9a7143176/" target="_blank">
                                         <p class="contact"><i class="fab fa-linkedin"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://www.instagram.com/rafialg11/" target="_blank">
                                         <p class="contact"><i class="fab fa-instagram"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://wa.link/cmfv93" target="_blank">
                                         <p class="contact"><i class="fab fa-whatsapp"></i></p>
                                     </a>
                                 </div>
@@ -140,16 +140,16 @@
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
-                                    <a href="">
+                                    <a href="https://github.com/mas-diq" target="_blank">
                                         <p class="contact"><i class="fab fa-github"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://www.linkedin.com/in/muhammad-shiddiq-f-5a1868111/" target="_blank">
                                         <p class="contact"><i class="fab fa-linkedin"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://www.instagram.com/m_shiddiq_f/" target="_blank">
                                         <p class="contact"><i class="fab fa-instagram"></i></p>
                                     </a>
-                                    <a href="">
+                                    <a href="https://wa.link/73xery" target="_blank">
                                         <p class="contact"><i class="fab fa-whatsapp"></i></p>
                                     </a>
                                 </div>
