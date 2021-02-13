@@ -21,9 +21,21 @@
                             <div class="bio bio-tech">
                                 <h3>Web Developer</h3>
                                 <p>Major Skills :</p>
-                                <img class="tech" src="../assets/img/JS.png" alt="" />
-                                <img class="tech" src="../assets/img/Vue Js.png" alt="" />
-                                <img class="tech" src="../assets/img/Nodejs.png" alt="" />
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/JS.png" alt="" />
+                                    <span class="tooltiptext">Javascript</span>
+                                </div>
+
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/Vue Js.png" alt="" />
+                                    <span class="tooltiptext">Vue.js</span>
+                                </div>
+
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/Nodejs.png" alt="" />
+                                    <span class="tooltiptext">Node.js</span>
+                                </div>
+
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
@@ -57,9 +69,21 @@
                             <div class="bio bio-tech">
                                 <h3>UI Designer</h3>
                                 <p>Major Skills :</p>
-                                <img class="tech" src="../assets/img/figma.png" alt="" />
-                                <img class="tech" src="../assets/img/Invision.png" alt="" />
-                                <img class="tech" src="../assets/img/Photoshop.png" alt="" />
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/figma.png" alt="" />
+                                    <span class="tooltiptext">Figma</span>
+                                </div>
+
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/Invision.png" alt="" />
+                                    <span class="tooltiptext">Invision</span>
+                                </div>
+
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/Photoshop.png" alt="" />
+                                    <span class="tooltiptext">Photoshop</span>
+
+                                </div>
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">
@@ -99,9 +123,20 @@
                             <div class="bio bio-tech">
                                 <h3>UX Researcher</h3>
                                 <p>Major Skills :</p>
-                                <img class="tech" src="../assets/img/figma.png" alt="" />
-                                <img class="tech" src="../assets/img/HTML.png" alt="" />
-                                <img class="tech" src="../assets/img/Tailwindcss.png" alt="" />
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/figma.png" alt="" />
+                                    <span class="tooltiptext">Figma</span>
+                                </div>
+
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/HTML.png" alt="" />
+                                    <span class="tooltiptext">HTML</span>
+                                </div>
+
+                                <div class="icon-tech">
+                                    <img class="tech" src="../assets/img/Tailwindcss.png" alt="" />
+                                    <span class="tooltiptext">Tailwind</span>
+                                </div>
                             </div>
                             <div class="bio bio-contact">
                                 <div class="contact-icon">

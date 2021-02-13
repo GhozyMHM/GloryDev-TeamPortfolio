@@ -58,9 +58,20 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/PHP.png" alt="" />
-                        <img src="../assets/img/bootstrap.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/JS.png" alt="" />
+                            <span class="tooltiptext">Javascript</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/PHP.png" alt="" />
+                            <span class="tooltiptext">PHP</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/bootstrap.png" alt="" />
+                            <span class="tooltiptext">Bootstrap</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -77,9 +88,20 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/bootstrap.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/JS.png" alt="" />
+                            <span class="tooltiptext">Javascript</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/bootstrap.png" alt="" />
+                            <span class="tooltiptext">Bootstrap</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/Git.png" alt="" />
+                            <span class="tooltiptext">Git</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -142,9 +164,20 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/CSS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/JS.png" alt="" />
+                            <span class="tooltiptext">Javascript</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/CSS.png" alt="" />
+                            <span class="tooltiptext">CSS</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/Git.png" alt="" />
+                            <span class="tooltiptext">Git</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -160,9 +193,20 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/JS.png" alt="" />
-                        <img src="../assets/img/CSS.png" alt="" />
-                        <img src="../assets/img/Git.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/JS.png" alt="" />
+                            <span class="tooltiptext">Javascript</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/CSS.png" alt="" />
+                            <span class="tooltiptext">CSS</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/Git.png" alt="" />
+                            <span class="tooltiptext">Git</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>

@@ -57,8 +57,15 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/figma.png" alt="" />
-                        <img src="../assets/img/Dribbble.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/figma.png" alt="" />
+                            <span class="tooltiptext">Figma</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/Dribbble.png" alt="" />
+                            <span class="tooltiptext">Dribbble</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -75,8 +82,15 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/figma.png" alt="" />
-                        <img src="../assets/img/Dribbble.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/figma.png" alt="" />
+                            <span class="tooltiptext">Figma</span>
+                        </div>
+
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/Dribbble.png" alt="" />
+                            <span class="tooltiptext">Dribbble</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>
@@ -141,7 +155,10 @@
                     </p>
                     <p class="p-tu">Major Tech Used :</p>
                     <div class="tech-used">
-                        <img src="../assets/img/figma.png" alt="" />
+                        <div class="icon-tech">
+                            <img class="tech" src="../assets/img/figma.png" alt="" />
+                            <span class="tooltiptext">Figma</span>
+                        </div>
                     </div>
                     <a href="">Visit Project</a>
                 </div>
