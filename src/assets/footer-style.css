@@ -9,6 +9,7 @@ footer {
     flex-flow: column;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
 
 .main {
