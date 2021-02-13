@@ -9,10 +9,8 @@
             <div class="col-lg-6 col-sm-12 member-review">
                 <h1>Muhamad <span>Rafi</span> Rahmat Alghifari</h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-                    exercitationem minima consectetur, deleniti dolor corrupti nisi
-                    facilis autem reiciendis! Cum culpa, sit delectus quisquam
-                    exercitationem nostrum neque aliquid deleniti totam!
+                    I specialize in creating Website and Mobile App prototypes and am comfortable working on all aspects
+                    of the product cycle
                 </p>
             </div>
         </div>
