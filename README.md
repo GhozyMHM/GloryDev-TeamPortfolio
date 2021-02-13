@@ -1,5 +1,7 @@
 # GloryDev Team Portfolio Website
 
+## Live Demo : https://ghozymhm.github.io/GloryDev-TeamPortfolio
+
 ## Project setup
 ```
 npm install
