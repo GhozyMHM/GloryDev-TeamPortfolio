@@ -59,6 +59,38 @@
         components: {
             navbar,
         },
+        mounted() {
+            window.onscroll = function () {
+                var navbar = document.getElementById("navbar");
+                var ul = document.getElementById("ul");
+                var dropmenu = document.getElementById("dropdown-menu");
+                let menu = document.getElementsByClassName("menu");
+                let line = document.getElementsByClassName("line");
+                // let active = document.getElementsByClassName('router-link-exact-active');
+
+                if (window.pageYOffset > 100) {
+                    navbar.style.background = "#276678";
+                    dropmenu.style.background = "#276678";
+                    for (let x = 0, leng = menu.length; x < leng; x++) {
+                        menu[x].style.color = "#D9E6EA";
+                    }
+                    for (let y = 0, leng = line.length; y < leng; y++) {
+                        line[y].style.color = "#D9E6EA";
+                    }
+                    ul.style.margin = "5px 0";
+                } else {
+                    navbar.style.background = "transparent";
+                    dropmenu.style.background = "rgb(140, 207, 252)";
+                    for (let x = 0, leng = menu.length; x < leng; x++) {
+                        menu[x].style.color = "#1f5766";
+                    }
+                    for (let y = 0, leng = line.length; y < leng; y++) {
+                        line[y].style.color = "#1f5766";
+                    }
+                    ul.style.margin = "20px 0";
+                }
+            };
+        },
     };
 </script>
 

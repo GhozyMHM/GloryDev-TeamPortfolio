@@ -177,4 +177,34 @@ form button {
     }
 }
 
-@media (max-width: 700px) {}
+@media (max-width: 700px) {
+    .contact .wrap {
+        background-color: #8fc3d1;
+        height: auto;
+        padding: 90px 0 30px;
+        /* margin-top: 100px; */
+        position: static;
+    }
+
+    .bott-tri {
+        display: none;
+    }
+
+    .top-tri {
+        display: none;
+    }
+
+    .box {
+        z-index: 0;
+    }
+
+    .box .small-contact {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 15px;
+    }
+
+    .box .big-contact {
+        border-top-right-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+}
