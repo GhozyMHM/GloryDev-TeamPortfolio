@@ -11,7 +11,7 @@
     components: {},
     mounted() {
       AOS.init({
-        duration: 700,
+        duration: 650,
         mirror: true,
       });
     },
