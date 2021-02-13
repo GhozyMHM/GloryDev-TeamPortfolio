@@ -73,7 +73,7 @@
                             <span class="tooltiptext">Bootstrap</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://www.holydamn.id/" target="_blank">Visit Project</a>
                 </div>
             </div>
         </div>
@@ -103,7 +103,8 @@
                             <span class="tooltiptext">Git</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://ghozymhm.github.io/CLOIS88-University-Class-Page/" target="_blank">Visit
+                        Project</a>
                 </div>
                 <div class="main-port">
                     <div id="portCarousel2" class="carousel slide" data-bs-ride="carousel">
@@ -179,7 +180,7 @@
                             <span class="tooltiptext">Git</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://ghozymhm.github.io/HEYBOOM-Landing-Page/" target="_blank">Visit Project</a>
                 </div>
             </div>
         </div>
@@ -208,7 +209,7 @@
                             <span class="tooltiptext">Git</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://ghozymhm.github.io/Color-Personality/" target="_blank">Visit Project</a>
                 </div>
                 <div class="main-port">
                     <!-- <img src="../assets/img/Holydamn.png" alt=""> -->

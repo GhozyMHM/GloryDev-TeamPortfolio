@@ -67,7 +67,7 @@
                             <span class="tooltiptext">Dribbble</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://bit.ly/Akia2020" target="_blank">Visit Project</a>
                 </div>
             </div>
         </div>
@@ -96,7 +96,7 @@
                             <span class="tooltiptext">Bootstrap</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://bit.ly/Landing-Page-Bootstrap" target="_blank">Visit Project</a>
                 </div>
                 <div class="main-port">
                     <div id="portCarousel2" class="carousel slide" data-bs-ride="carousel">
@@ -167,7 +167,7 @@
                             <span class="tooltiptext">CSS</span>
                         </div>
                     </div>
-                    <a href="">Visit Project</a>
+                    <a href="https://bit.ly/Pure-Web-JamKos" target="_blank">Visit Project</a>
                 </div>
             </div>
         </div>
