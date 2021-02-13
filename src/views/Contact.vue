@@ -24,13 +24,9 @@
                 <div class="big-contact">
                     <form action="">
                         <div class="row">
-                            <div class="col-lg-6">
-                                <label for="">First Name</label>
-                                <input type="text" placeholder="Type your first name" autocomplete="off" />
-                            </div>
-                            <div class="col-lg-6">
-                                <label for="">Last Name</label>
-                                <input type="text" placeholder="Type your last name" autocomplete="off" />
+                            <div class="col-lg-12">
+                                <label for="">Full Name</label>
+                                <input type="text" placeholder="Type your full name" autocomplete="off" />
                             </div>
                         </div>
                         <div class="row">
