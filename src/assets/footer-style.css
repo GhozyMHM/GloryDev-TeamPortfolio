@@ -3,21 +3,32 @@ footer {
     color: white;
     width: 100%;
     height: auto;
-    padding: 10px 0;
-    display: flex;
-    flex-wrap: wrap;
-    flex-flow: column;
-    justify-content: center;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
 }
 
-.main {
-    display: flex;
-    flex-wrap: wrap;
+.main .row {
+    /* background-color: red; */
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
     margin: 20px 0 30px;
+}
+
+.main .logo {
+    text-align: center;
+    width: fit-content;
+    /* background-color: rebeccapurple; */
+}
+
+.main-team {
+    width: fit-content;
+    /* background-color: yellowgreen; */
+}
+
+.main-contact {
+    width: fit-content;
+    /* background-color: blue; */
 }
 
 .main img {
@@ -39,75 +50,31 @@ p.copyright {
     font-weight: 500;
 }
 
-/* @media (max-width: 991px) {
+@media (max-width: 991px) {
 
     footer {
-        height: 100vh;
-    }
-
-    .main {
-        justify-content: center;
-        align-items: center;
-        margin: 20px 0 30px;
-        flex-flow: column;
-    }
-
-    .main .main-team,
-    .main .main-contact {
-        text-align: center;
-        margin-top: 50px;
-    }
-
-    p.copyright {
-        margin-top: 30px;
-    }
-
-} */
-
-@media (max-width: 1030px) {
-    footer {
-        align-items: center;
         min-height: 100vh;
-    }
-
-    .main {
+        display: flex;
         flex-flow: column;
         justify-content: center;
-        align-items: center;
-        margin: 20px 0 30px;
     }
 
-    .main .main-team,
-    .main .main-contact,
-    p.copyright {
+    .main .logo,
+    .main-team,
+    .main-contact {
+        width: 100%;
         text-align: center;
-        margin-top: 100px;
-    }
-
-    .main img {
-        width: 220px;
-        height: 170px;
-    }
-
-    .main h1 {
-        font-size: 35px;
-    }
-
-    p {
-        font-size: 23px;
+        margin-top: 70px;
     }
 
     p.copyright {
-        max-width: 400px;
+        margin-top: 40px;
+        margin-bottom: 50px;
     }
+
 }
 
 @media (max-width: 700px) {
-    footer {
-        align-items: center;
-        height: 100vh;
-    }
-
     .main img {
         width: 150px;
         height: 100px;
@@ -122,6 +89,12 @@ p.copyright {
     }
 
     p.copyright {
-        max-width: 250px;
+        text-align: center;
+        max-width: 300px;
+    }
+
+    .cpr {
+        display: flex;
+        justify-content: center;
     }
 }
