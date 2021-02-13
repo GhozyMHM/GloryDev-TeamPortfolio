@@ -39,7 +39,7 @@ p.copyright {
     font-weight: 500;
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
 
     footer {
         height: 100vh;
@@ -62,16 +62,26 @@ p.copyright {
         margin-top: 30px;
     }
 
-}
+} */
 
-@media (max-width: 800px) {
+@media (max-width: 1030px) {
     footer {
         align-items: center;
-        height: 100vh;
+        min-height: 100vh;
     }
 
     .main {
         flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 0 30px;
+    }
+
+    .main .main-team,
+    .main .main-contact,
+    p.copyright {
+        text-align: center;
+        margin-top: 100px;
     }
 
     .main img {
